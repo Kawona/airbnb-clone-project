@@ -43,7 +43,7 @@ Primary Font: Circular, Medium (500), 16px
 headings: circuluar, Bold (700), 24px-32px
 secondary text: Circular, Book(400), 14px
 
-UI/UX Design Planning
+#UI/UX Design Planning
 The objectives of the UI/UX design is to ensure a seamless, intuitive, and visually appealing experience for users interacting with the booking systems.
 
 Key goals:
