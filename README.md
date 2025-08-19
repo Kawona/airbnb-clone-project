@@ -42,3 +42,18 @@ Typography:
 Primary Font: Circular, Medium (500), 16px
 headings: circuluar, Bold (700), 24px-32px
 secondary text: Circular, Book(400), 14px
+
+UI/UX Design Planning
+The objectives of the UI/UX design is to ensure a seamless, intuitive, and visually appealing experience for users interacting with the booking systems.
+
+Key goals:
+To provide a clean and consistent layout
+Ensure easy navigation with minimal clicks to reach key actions
+Make content readable and easily accessable on both mobile and web devices
+
+
+Key Features to implement
+Search and filter options for finding properties.
+High quality images and descriptions for each property
+Responsive design for mobile and desktop users
+booking flow optimization with minimal steps from browsing to checkout
