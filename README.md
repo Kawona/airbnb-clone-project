@@ -57,3 +57,12 @@ Search and filter options for finding properties.
 High quality images and descriptions for each property
 Responsive design for mobile and desktop users
 booking flow optimization with minimal steps from browsing to checkout
+
+### Importance of a User-Friendly Design in a Booking System
+A user-friendly design is crucial in ensuring that customers can browse, compare, and book properties effortlessly. If the interface is confusing or cluttered, users may abandon the booking process.  
+Key benefits of user-friendly design include:
+- **Increased conversions** by simplifying the booking journey.  
+- **Reduced bounce rate** with clear navigation and accessible content.  
+- **Trust and reliability** through professional design and easy-to-use features.  
+- **Improved customer satisfaction**, encouraging repeat use and referrals.  
+- **Accessibility for all users**, including those on mobile or with limited technical skills.
