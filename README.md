@@ -65,3 +65,25 @@ users can gain access to property listings, view detailed property information a
 - DevOPs Owner: They manage deployment and CI/CD pipeline, server insfrastructure
 - Product Owner: Defines requirements, prioritizes features and represents to stakeholders
 - Scrum Master: They facilitates agile process, removes blockers and organizes meetings
+
+## UI Component Patterns
+
+# Navbar
+   - Logo
+   - Search bar
+   - User navigation
+   - Responsive menu
+   - Property Card
+
+# Property Card
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
+# Footer
+
+- Site links
+- Company information
+- Social media links
+- Copyright information
