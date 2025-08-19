@@ -2,14 +2,14 @@
 ##This project is an Airbnb clone booking platform for accomodation. The goal is to build a functional web application that
 users can gain access to property listings, view detailed property information and complete bookings.
 
-##Goals
+## Goals
 - Understand how to implement responsive UI/UX designs
 - Understand how to structure a complex web application
 - gain knowledge on who to work as a team with define roles
 - Develop skills in component-based frontend architecture
 - Learn best practices for web application development
 
-##Tech stack
+## Tech stack
 - frontend: HTML,CSS, JavaScript
 - version control: Git and Github
 - Design Tools: Figma for UI/UX design
@@ -22,13 +22,13 @@ users can gain access to property listings, view detailed property information a
 - Ensure fast loading times
 - prioritize mobile responsiveness
 
-##Primary 
+## Primary 
 - Property listing view
 - listing detailed view
 - simple checkout view
 
 
-##Figma design specifications
+## Figma design specifications
 - color styles:
 - Primary: #FF5A5F
 - secondary: #008489
@@ -36,21 +36,21 @@ users can gain access to property listings, view detailed property information a
 - Text: #222222
 - secondary Text: #717171
 
-##Typography:
+## Typography:
 - Primary Font: Circular, Medium (500), 16px
 - headings: circuluar, Bold (700), 24px-32px
 - secondary text: Circular, Book(400), 14px
 
-##UI/UX Design Planning
+## UI/UX Design Planning
 - The objectives of the UI/UX design is to ensure a seamless, intuitive, and visually appealing experience for users interacting with the booking systems.
 
-##Key goals:
+## Key goals:
 - To provide a clean and consistent layout
 - Ensure easy navigation with minimal clicks to reach key actions
 - Make content readable and easily accessable on both mobile and web devices
 
 
-##Key Features to implement
+## Key Features to implement
 - Search and filter options for finding properties.
 - High quality images and descriptions for each property
 - Responsive design for mobile and desktop users
