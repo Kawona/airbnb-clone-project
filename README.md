@@ -56,7 +56,7 @@ users can gain access to property listings, view detailed property information a
 - Responsive design for mobile and desktop users
 - booking flow optimization with minimal steps from browsing to checkout
 
-## Project Roles And Responsibilities
+## Project Roles and Responsibilities
 - Project Manager: Oversees timeline, coordinates the team and manages deliverales
 - Frontend Developers: They are to implement UI components  and ensures responsive design
 - Backend Developers: Their rule is to build API's, mamage database and implements business logic
