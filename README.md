@@ -56,3 +56,12 @@ users can gain access to property listings, view detailed property information a
 - **Responsive design for mobile and desktop users
 - **booking flow optimization with minimal steps from browsing to checkout
 
+## Project Roles And Responsiilities
+- Project Manager: Oversees timeline, coordinates the team and manages deliverales
+- Frontend Developers: They are to implement UI components  and ensures responsive design
+- Backend Developers: Their rule is to build API's, mamage database and implements business logic
+- Designers: Creates mockups, maintain design systems and ensures UX quality
+- QA/Testers: Writes test cases, performs testing and report bugs
+- DevOPs Owner: They manage deployment and CI/CD pipeline, server insfrastructure
+- Product Owner: Defines requirements, prioritizes features and represents to stakeholders
+- Scrum Master: They facilitates agile process, removes blockers and organizes meetings
